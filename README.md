@@ -25,7 +25,7 @@
 <br>
 <br> 
   <a href="mailto:aayush.shukla.366@gmail.com" target="_blank">
-    <img align="left" alt="Aayush Shukla | Gmail" width="26px" src="https://iconape.com/wp-content/uploads/1/11/gmail-02.png" />
+    <img align="left" alt="Aayush Shukla | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.instagram.com/ytb.oreus.bs/" target="_blank">
     <img align="left" alt="Aayush Shukla | Instagram" width="24px" src="https://i0.wp.com/statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png?fit=1000%2C1000&ssl=1"  />

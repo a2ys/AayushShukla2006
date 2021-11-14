@@ -1,4 +1,5 @@
 <h1> Hi there <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">, welcome to my profile! </h1>
+<br><br>
 
 -I’m interested in learning algorithms and data structures.<br>
 -I’m looking to collaborate on small projects.

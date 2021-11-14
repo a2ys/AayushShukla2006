@@ -1,7 +1,7 @@
 <h1> Hi there <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">, welcome to my profile! </h1>
 
-- 👀 I’m interested in learning algorithms and data structures.
-- 💞️ I’m looking to collaborate on small projects.
+-I’m interested in learning algorithms and data structures.
+-I’m looking to collaborate on small projects.
 
 <br>
 <br>

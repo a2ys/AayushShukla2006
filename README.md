@@ -1,14 +1,11 @@
 <h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<p align="left"> <img src= alt=> </p>
 
-- 👀 I’m interested in learning algorithms, data structures and trending languages.
-- 🌱 I’m currently learning sorting algorithms.
+- 👀 I’m interested in learning algorithms and data structures.
 - 💞️ I’m looking to collaborate on small projects.
-- 📫 How to reach me - Email me at 
 
 <br>
 <br>
-**✨ Tech stacks currently using** <br>
+**✨ Tech stacks currently using:** <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -20,12 +17,11 @@
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://scala-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a></code>
+<code><a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
 <br>
 <br>
-![My Github stats](https://github-readme-stats.vercel.app/api?username=piyushP7pravin&show_icons=true&hide_border=true)
-<br>
-<br>
-**💬 My inbox is always open, Contact me**
+**💬 My inbox is always open, Contact me:**
 <br>
 <br> 
   <a href="mailto:aayush.shukla.366@gmail.com" target="_blank">

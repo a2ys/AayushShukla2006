@@ -9,7 +9,7 @@
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a></code>
+<code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <br>
 <br>
 <br>
@@ -17,7 +17,6 @@
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-<code><a href="https://scala-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a></code>
 <code><a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
 <br>
 <br>

@@ -28,5 +28,5 @@
     <img align="left" alt="Aayush Shukla | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.instagram.com/ytb.oreus.bs/" target="_blank">
-    <img align="left" alt="Aayush Shukla | Instagram" width="24px" src="https://i0.wp.com/statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png?fit=1000%2C1000&ssl=1"  />
+    <img align="left" alt="Aayush Shukla | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  />
   </a>

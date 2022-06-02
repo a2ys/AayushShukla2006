@@ -8,27 +8,31 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AayushShukla2006&theme=dracula&column=4&no-bg=true&column=3&row=2" alt="tks18" />
   </a>
 </p>
-<br>
+<hr>
 <h3 align="center">
-  ![Snake animation](https://github.com/AayushShukla2006/AayushShukla2006/blob/output/github-contribution-grid-snake.svg)
+  Snake eating my contributions 😢
+  <img src="https://github.com/AayushShukla2006/AayushShukla2006/blob/output/github-contribution-grid-snake.svg">
 </h3>
 <br>
+<hr>
 <h3 align="center">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShukla2006&layout=compact&langs_count=16&theme=dracula"/>
+  ⌨️ My GitHub Stats
+  <br><br>
+  <img align="center" height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShukla2006&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushShukla2006&show_icons=true&theme=dracula&hide=stars">
 </h3>
 
 <hr>
 <h3 align="center">
-  👨‍🚒 My main projects<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushShukla2006&repo=tkinter-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=music-player">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=everest-browser">
+  👨‍🚒 Notable works<br><br>
+  <a href="https://github.com/AayushShukla2006/tkinter-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushShukla2006&repo=tkinter-calculator"></a>
+  <a href="https://github.com/warrior-guys/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=music-player"></a>
+  <a href="https://github.com/warrior-guys/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=everest-browser"></a>
 </h3>
 
 <hr>
 <h3 align="center">
-  ⛓️ Connect with me:
+  ⛓️ Connect with me
 </h3>
 <p align="center">
   <a href="mailto:aayush.shukla.366@gmail.com">

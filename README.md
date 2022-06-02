@@ -1,34 +1,43 @@
-<h1> Hi there <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">, welcome to my profile! </h1>
-<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AayushShukla2006&color=blue&style=for-the-badge)
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45">, welcome to my profile! </h1>
 
-- I’m interested in learning algorithms and data structures.<br>
-- I’m looking to collaborate on small projects.
-
+<h3 align="center"> 🧑‍🎓 High School Student | 🧑‍💻 Open-source Developer </h3>
 <br>
-<br>
-✨ Tech stacks currently using:<br>
-<br>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<br>
-<br>
-<br>
-🌱 Looking forward to learn:<br>
-<br>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-<br>
-<br>
-<br>
-💬 My inbox is always open, Contact me:
-<br>
-<br> 
-  <a href="mailto:aayush.shukla.366@gmail.com" target="_blank">
-    <img align="left" alt="Aayush Shukla | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AayushShukla2006&theme=dracula&column=4&no-bg=true&column=3&row=2" alt="tks18" />
   </a>
-  <a href="https://www.instagram.com/ytb.oreus.bs/" target="_blank">
-    <img align="left" alt="Aayush Shukla | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  />
+</p>
+<br>
+<h3 align="center">
+  ![Snake animation](https://github.com/AayushShukla2006/AayushShukla2006/blob/output/github-contribution-grid-snake.svg)
+</h3>
+<br>
+<h3 align="center">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShukla2006&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushShukla2006&show_icons=true&theme=dracula&hide=stars">
+</h3>
+
+<hr>
+<h3 align="center">
+  👨‍🚒 My main projects<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushShukla2006&repo=tkinter-calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=music-player">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=everest-browser">
+</h3>
+
+<hr>
+<h3 align="center">
+  ⛓️ Connect with me:
+</h3>
+<p align="center">
+  <a href="mailto:aayush.shukla.366@gmail.com">
+    <img alt="Aayush Shukla | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
   </a>
+  <a href="https://www.instagram.com/ytb.oreus/">
+    <img alt="Aayush Shukla | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=AayushShukla2006&color=blue&style=for-the-badge">
+</p>
+  

@@ -28,7 +28,7 @@
 <a href="https://github.com/AayushShukla2006/chess-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushShukla2006&repo=chess-ai"></a>
 <a href="https://github.com/warrior-guys/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=music-player"></a>
 <a href="https://github.com/AayushShukla2006/tkinter-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushShukla2006&repo=tkinter-calculator"></a>
-<a href="https://github.com/warrior-guys/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=everest-browser"></a>
+<a href="https://github.com/warrior-guys/everest-browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=everest-browser"></a>
 </h3>
 <hr>
 <h3 align="center">

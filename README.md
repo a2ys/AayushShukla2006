@@ -10,12 +10,6 @@
 </p>
 <hr>
 <h3 align="center">
-  Snake eating my contributions 😢
-  <img src="https://github.com/AayushShukla2006/AayushShukla2006/blob/output/github-contribution-grid-snake.svg">
-</h3>
-<br>
-<hr>
-<h3 align="center">
   ⌨️ My GitHub Stats
   <br><br>
   <img align="center" height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShukla2006&layout=compact&langs_count=16&theme=dracula"/>
@@ -31,17 +25,7 @@
 <a href="https://github.com/warrior-guys/everest-browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior-guys&repo=everest-browser"></a>
 </h3>
 <hr>
-<h3 align="center">
-  ⛓️ Connect with me
-</h3>
 <p align="center">
-  <a href="mailto:aayush.shukla.366@gmail.com">
-    <img alt="Aayush Shukla | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
-  </a>
-  <a href="https://www.instagram.com/ytb.oreus/">
-    <img alt="Aayush Shukla | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
-  </a>
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=AayushShukla2006&color=blue&style=for-the-badge">
 </p>
   

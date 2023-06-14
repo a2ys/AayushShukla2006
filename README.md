@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a [Chess AI in Python](https://github.com/a2ys/chess-ai)
 
-- 🌱 I’m currently learning **Flutter and JavaScript**
+- 🌱 I’m currently learning **Dart, Flutter and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

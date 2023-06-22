@@ -8,9 +8,9 @@
   
 <br><br>
 
-- 🔭 I’m currently working on a [Chess AI in Python](https://github.com/a2ys/chess-ai), and an open-source chat application, [Conversa](https://github.com/a2ys/conversa)
+- 🔭 I’m currently working on a [Chess AI in Python](https://github.com/a2ys/chess-ai), and an open-source chat application, [Conversa](https://github.com/a2ys/conversa).
 
-- 🌱 I’m currently learning **Dart, Flutter and JavaScript**
+- 🌱 I’m currently learning **Dart, Flutter and JavaScript**.
 
 <br>
 

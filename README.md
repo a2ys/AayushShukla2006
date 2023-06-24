@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Shukla</h1>
-<h3 align="center">Self-taught programmer • Looking to open-source</h3>
+<h3 align="center">Self-taught programmer • Open-source developer</h3>
 <br><br>
 
 <div align="center">

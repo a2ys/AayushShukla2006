@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/a2ys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="a2ys" height="30" width="40" /></a>
-<a href="https://twitter.com/a2yshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a2yshk" height="30" width="40" /></a>
+<a href="https://twitter.com/mengo_no_chill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a2yshk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

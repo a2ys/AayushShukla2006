@@ -11,6 +11,9 @@
 <br>
 
 
+<p align="center" style="display: grid; grid-template-columns: repeat(2, 1fr);">
 
-| ![](https://github-readme-stats.vercel.app/api?username=a2ys&show_icons=true&locale=en&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=a2ys&theme=github_dark) |
-|-|-|
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=a2ys&show_icons=true&locale=en&theme=github_dark" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a2ys&theme=github_dark" />
+
+</p>
